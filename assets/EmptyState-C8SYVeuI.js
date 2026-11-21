@@ -1,0 +1,1 @@
+import{r as e}from"./index-BDJS8mgq.js";var t=e();function n({title:e,children:n}){return(0,t.jsxs)(`div`,{className:`card px-4 py-8 text-center`,children:[(0,t.jsx)(`p`,{className:`font-medium text-gray-700`,children:e}),n&&(0,t.jsx)(`div`,{className:`mt-3 text-sm text-gray-500`,children:n})]})}export{n as t};
