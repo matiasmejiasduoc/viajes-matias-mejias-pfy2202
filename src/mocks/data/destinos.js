@@ -1,0 +1,138 @@
+export const destinos = [
+  {
+    id: 1,
+    ciudad: 'Buenos Aires',
+    pais: 'Argentina',
+    region: 'Sudamérica',
+    descripcion:
+      'Capital porteña con barrios llenos de historia, gastronomía de primer nivel y una vida cultural que no se detiene.',
+    temporada: 'Todo el año',
+    moneda: 'Peso argentino',
+    idioma: 'Español',
+    actividades: [
+      'Recorrer Caminito en La Boca',
+      'Show de tango en San Telmo',
+      'Visitar el Teatro Colón',
+      'Cenar en una parrilla de Palermo',
+    ],
+  },
+  {
+    id: 2,
+    ciudad: 'Cusco',
+    pais: 'Perú',
+    region: 'Sudamérica',
+    descripcion:
+      'Antigua capital del imperio inca y punto de partida para llegar a Machu Picchu y al Valle Sagrado.',
+    temporada: 'Mayo a septiembre',
+    moneda: 'Sol',
+    idioma: 'Español y quechua',
+    actividades: [
+      'Excursión a Machu Picchu',
+      'Tour por el Valle Sagrado',
+      'Caminar por la Plaza de Armas',
+      'Visitar la Montaña de Colores',
+    ],
+  },
+  {
+    id: 3,
+    ciudad: 'Río de Janeiro',
+    pais: 'Brasil',
+    region: 'Sudamérica',
+    descripcion:
+      'Playas famosas, cerros con vistas increíbles y un ambiente alegre que se vive en cada esquina.',
+    temporada: 'Diciembre a marzo',
+    moneda: 'Real',
+    idioma: 'Portugués',
+    actividades: [
+      'Subir al Cristo Redentor',
+      'Teleférico al Pan de Azúcar',
+      'Día de playa en Copacabana',
+      'Recorrer la escalera Selarón',
+    ],
+  },
+  {
+    id: 4,
+    ciudad: 'Cancún',
+    pais: 'México',
+    region: 'Norteamérica',
+    descripcion:
+      'Mar turquesa del Caribe, cenotes y ruinas mayas a pocas horas de distancia.',
+    temporada: 'Noviembre a abril',
+    moneda: 'Peso mexicano',
+    idioma: 'Español',
+    actividades: [
+      'Snorkel en Isla Mujeres',
+      'Nadar en cenotes',
+      'Visitar Chichén Itzá',
+      'Recorrer la zona hotelera',
+    ],
+  },
+  {
+    id: 5,
+    ciudad: 'Nueva York',
+    pais: 'Estados Unidos',
+    region: 'Norteamérica',
+    descripcion:
+      'La ciudad que nunca duerme: museos, rascacielos, parques y espectáculos de Broadway.',
+    temporada: 'Abril a junio y septiembre a noviembre',
+    moneda: 'Dólar estadounidense',
+    idioma: 'Inglés',
+    actividades: [
+      'Paseo por Central Park',
+      'Ver un musical en Broadway',
+      'Visitar la Estatua de la Libertad',
+      'Mirador del Empire State',
+    ],
+  },
+  {
+    id: 6,
+    ciudad: 'Madrid',
+    pais: 'España',
+    region: 'Europa',
+    descripcion:
+      'Museos de clase mundial, plazas animadas y tapas a cualquier hora del día.',
+    temporada: 'Marzo a junio',
+    moneda: 'Euro',
+    idioma: 'Español',
+    actividades: [
+      'Visitar el Museo del Prado',
+      'Pasear por el Parque del Retiro',
+      'Tapear en La Latina',
+      'Conocer el Palacio Real',
+    ],
+  },
+  {
+    id: 7,
+    ciudad: 'Roma',
+    pais: 'Italia',
+    region: 'Europa',
+    descripcion:
+      'Historia en cada calle, desde el Coliseo hasta el Vaticano, con la mejor pasta y helado.',
+    temporada: 'Abril a junio y septiembre a octubre',
+    moneda: 'Euro',
+    idioma: 'Italiano',
+    actividades: [
+      'Recorrer el Coliseo y el Foro Romano',
+      'Visitar los Museos Vaticanos',
+      'Lanzar una moneda en la Fontana di Trevi',
+      'Cenar en el Trastevere',
+    ],
+  },
+  {
+    id: 8,
+    ciudad: 'Tokio',
+    pais: 'Japón',
+    region: 'Asia',
+    descripcion:
+      'Mezcla de tradición y tecnología: templos antiguos, barrios de neón y una comida inolvidable.',
+    temporada: 'Marzo a mayo y octubre a noviembre',
+    moneda: 'Yen',
+    idioma: 'Japonés',
+    actividades: [
+      'Cruzar el paso de Shibuya',
+      'Visitar el templo Senso-ji',
+      'Probar sushi en Tsukiji',
+      'Recorrer Akihabara',
+    ],
+  },
+]
